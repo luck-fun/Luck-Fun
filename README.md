@@ -30,6 +30,6 @@ ___
 
 ___
 
-### Top Languages
+### Top Languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luck-fun&layout=compact&theme=dark)
