@@ -2,7 +2,6 @@
 
 I'm Web and Bot developer 
 
-___
 
 ### About me:
 
@@ -23,10 +22,14 @@ ___
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![SQLite](https://img.shields.io/badge/sqlite-333?style=for-the-badge&logo=SQLite&logoColor=003B57)
 
-
 ___
 
 ### My stats on Github:
 
 [![LuckFun's GitHub stats](https://github-readme-stats.vercel.app/api?username=luck-fun&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/luck-fun/github-readme-stats#gh-dark-mode-only)
 
+___
+
+### Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luck-fun&layout=compact&theme=dark)
