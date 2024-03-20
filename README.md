@@ -1,16 +1,32 @@
-### Hi there 👋
+## Hi, I'm Luck Fun 
 
-<!--
-**luck-fun/Luck-Fun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Web and Bot developer 
 
-Here are some ideas to get you started:
+___
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me:
+
+<ul>
+  <li>I'm leaning more towards the backend, but I also practice with the frontend 💻</li>
+  <li>I love coding in python and creating bots on it. 🐍</li>
+</ul>
+
+___
+
+### My stack of technologies:
+
+![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python)
+![HTML](https://img.shields.io/badge/HTML-333?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=GitHub)
+![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
+![SQLite](https://img.shields.io/badge/sqlite-333?style=for-the-badge&logo=SQLite&logoColor=003B57)
+
+
+___
+
+### My stats on Github:
+
+[![LuckFun's GitHub stats](https://github-readme-stats.vercel.app/api?username=luck-fun&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/luck-fun/github-readme-stats#gh-dark-mode-only)
+
