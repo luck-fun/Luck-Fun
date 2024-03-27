@@ -21,7 +21,6 @@ ___
 ![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=GitHub)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![SQLite](https://img.shields.io/badge/sqlite-333?style=for-the-badge&logo=SQLite&logoColor=003B57)
-
 ___
 
 ### My stats on Github:
