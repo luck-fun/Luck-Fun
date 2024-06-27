@@ -27,8 +27,5 @@ ___
 
 [![LuckFun's GitHub stats](https://github-readme-stats.vercel.app/api?username=luck-fun&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/luck-fun/github-readme-stats#gh-dark-mode-only)
 
-___
-
-### Top Languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luck-fun&layout=compact&theme=dark)
