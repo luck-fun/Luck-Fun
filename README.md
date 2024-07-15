@@ -25,6 +25,10 @@ I'm Web and Bot developer
 
 ## My stats on Github:
 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=luck-fun&style=for-the-badge&color=green" alt=""/>
+</div>
+
 [![LuckFun's GitHub stats](https://github-readme-stats.vercel.app/api?username=luck-fun&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/luck-fun/github-readme-stats#gh-dark-mode-only)
 
 
