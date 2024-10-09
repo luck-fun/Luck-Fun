@@ -7,7 +7,7 @@ I'm Web and Bot developer
 
 <ul>
   <li>I'm leaning more towards the backend, but I also practice with the frontend 💻</li>
-  <li>I love coding in Python and creating bots on it. 🐍</li>
+  <li>I like coding on Python and creating bots on it. 🐍</li>
 </ul>
 
 
