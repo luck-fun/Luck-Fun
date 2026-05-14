@@ -14,7 +14,7 @@ I'm Web, Bot, ML & AI developer
 
 ## My stack of technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,sqlite,git,github,discord,vscode,pycharm&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,sqlite,git,github,vscode,django,fastapi,keras,tensorflow,pycharm&theme=dark)](https://skillicons.dev)
 
 
 ## My stats on Github:
