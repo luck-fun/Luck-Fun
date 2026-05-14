@@ -1,13 +1,13 @@
 <h1>Hi, I'm Luck Fun</h1>
 
-I'm Web and Bot developer 
+I'm Web, Bot, ML & AI developer 
 
 
 ## About me:
 
 <ul>
-  <li>I'm leaning more towards the backend, but I also practice with the frontend 💻</li>
-  <li>I like coding on Python and creating bots on it. 🐍</li>
+  <li>Currently focusing on ML & AI, Backend programming</li>
+  <li>Doing practice throw projects and hackatons</li>
 </ul>
 
 
